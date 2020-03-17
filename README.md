@@ -1,7 +1,7 @@
 # NetworkModeling_RareCellVariability_Code
 Code corresponding to paper 'Gene networks with transcriptional bursting recapitulate rare transient coordinated high expression states in cancer'.
 
-Here, you can find the code to (1) run an example analysis of the main steps of the paper and (2) recreate the figures.
+Here, you can find the code to (1) run an example analysis and (2) recreate figures.
 
 Any of the figure panels may be recreated according to the corresponding scripts in /Scripts/Figures.
 For importing data from https://www.dropbox.com/sh/n94q45zkn5w54fe/AACC3cgts4kD6MWEE452pEgEa?dl=0 we created importing scripts in folder /Scripts/Import. 
