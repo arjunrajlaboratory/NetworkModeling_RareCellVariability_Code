@@ -10,6 +10,6 @@ In the seperate files /Scripts/mainAnalysis and /Scripts/suppAnalysis you can fi
 
 The folder /Functions summarizes all functions necessary to perform the analysis or creation of figures. 
 
-Further data, figures and outputs of the example analysis can be found via 
+Further data, figures and outputs of the example analysis can be found via \\
 data: https://www.dropbox.com/sh/n94q45zkn5w54fe/AACC3cgts4kD6MWEE452pEgEa?dl=0
 code: https://www.dropbox.com/sh/zydfps2w4h8urx0/AABTLmxS8p9PuBOSNGtz7EvEa?dl=0
